@@ -1,1 +1,2 @@
 list of all data you will come into contact with in pharmacy. 
+1. Patient data including blood tests, blood pressure, heart rate, etc.
