@@ -3,3 +3,5 @@ list of all data you will come into contact with in pharmacy.
 2. Immunizations
 3. Medicare payments
 4. Disease rates
+5. Drug tolerance 
+6. Case studies
